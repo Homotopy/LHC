@@ -74,6 +74,12 @@ HTMLActuator.prototype.addTile = function (tile) {
   outputtext[9] = "Z boson";
   outputtext[10] = "W boson";
   outputtext[11] = "Higgs Boson";
+  outputtext[12] = "down";
+  outputtext[13] = "up";
+  outputtext[14] = "strange";
+  outputtext[15] = "charm";
+  outputtext[16] = "bottom";
+  outputtext[17] = "top";
 
 
   inner.classList.add("tile-inner");
